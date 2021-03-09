@@ -11,3 +11,5 @@
 - git branch - to check which branch being use
 - git checkout -b <branch name> - to create a branch
 - git checkout <branch name> - to move to another branch
+- git remote add origin <website> -  to add remote repository
+- git remote -v - to check where it connected
